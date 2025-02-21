@@ -70,3 +70,6 @@ Based on the findings, here are actionable recommendations for healthcare admini
 5️⃣ **Strengthen Leadership Support & Feedback** – Encourage managers to provide regular, constructive feedback to enhance employee engagement.
 
 This case study highlights how **data-driven insights** can drive better workplace decisions in the healthcare industry.
+## Dataset
+The dataset used for this analysis is available in this repository:  
+📂 [healthcare_employee_satisfaction.xlsx](./healthcare_employee_satisfaction.xlsx)
